@@ -1,0 +1,7 @@
+[user]
+	email = gekumar@deloitte.com
+	name = user409roid
+[init]
+	defaultBranch = main
+[credential]
+	helper = store
